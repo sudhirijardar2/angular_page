@@ -1,0 +1,188 @@
+*{
+    margin: 0px;
+    padding: 10px;
+}
+
+.container{
+    background-color: lightgrey;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    padding-left: 100%;
+    /* padding-right: 5%; */
+}
+#img{
+    margin-left: 1400px;  
+}
+#main{
+    position: absolute;
+    margin-inline-start: 650px;
+}
+#label1{
+    width: 80px;
+    height: 20px;
+    margin: auto 0px;
+    margin-left: 190px;
+}
+#input1{
+    border: 1px solid;
+    width: 1200px;
+    /* margin: auto 200px; */
+    border-color: grey;
+    margin-left: 190px;
+    background-color: white;
+    border-radius: 3px;
+}
+#label2{
+
+    width: 80px;
+    height: 20px;
+    margin: auto 0px;
+    margin-left: 190px;
+}
+#input2{
+    border: 1px solid;
+    height: 30px;
+    width: 1200px;
+    height: 80px;
+    border-color: grey;
+    margin-left: 190px;
+    background-color: white;
+    border-radius: 3px;
+}
+
+#label3{
+    width: 80px;
+    height: 20px;
+    margin: auto 0px;
+    margin-left: 190px;
+}
+#input3{
+    border: 1px solid;
+    background-color: white;
+    border-color: grey;
+    height: 30px;
+    width: 1200px;
+    height: 30px;
+    margin-left: 190px;
+    border-radius: 3px;
+}
+#label4{
+    height: 30px;
+    width: 900px;
+    height: 30px;
+    margin-left: 190px;
+}
+#input4{
+    position: relative;
+    border: 1px solid;
+    height: 50px;
+    width: 250px;
+    height: 30px;
+    border-color: grey;
+    margin-left: 190px;
+    background-color: white;
+    border-radius: 3px;
+}
+#input5{
+    border: 1px solid;   
+    border-color: gray;
+    background-color: white;
+    bottom: 310px;
+    left: 310px;
+    margin-left: 230px;
+    height: 33px;
+    width: 250px;
+    position: absolute;
+    border-radius: 3px;
+
+}
+#label5{
+    /* margin-left: 180px; */
+    bottom: 333px;
+    left: 535px;
+    position: absolute;
+}
+.select1{
+    left: 850px;
+    position: absolute;
+    bottom: 338px;
+    height: 50px;
+
+}
+.ph{
+    left: 850px;
+    position: absolute;
+    bottom: 10px;
+    width: auto;
+    bottom: 290px;
+    
+}
+.catagory{
+    left: 1100px;
+    position: absolute;
+    bottom: 335px;
+}
+.genralbox{
+    left: 1100px;
+    position: absolute;
+    bottom: 290px;
+    border-radius: 5px;
+    padding-right: 100px;
+}
+.expdate{
+    position: absolute;
+    float: right;
+    /* margin-top: 90px; */
+    /* bottom: 09px; */
+    /* margin-right: 60px; */
+    
+}
+#label9{
+    position: absolute;
+    margin-inline-start: 450px;
+    bottom: 195px;
+
+}
+
+#input9{
+    border: 1px solid;
+    border-color: gray;
+    background-color: white;
+    width: 200px;
+    border-radius: 3px;
+    margin-inline-start: 450px;
+    bottom: 160px;
+    position: absolute;
+    height: 40px;
+    
+    
+}
+.button{
+    position: absolute;
+    margin-inline-start: 600px;
+    width: 400px;
+    background-color: red;
+    border-radius: 10px; 
+    border: whitesmoke;
+    color: white;
+}
+.address{
+    margin-left: 170px;
+    display: flex;
+
+}
+.address label{
+    display: flex;
+    
+
+}
+.cat{
+    width: 180px;
+    height: 40px;
+}
+.province input{
+    width: 180px;
+    height: 40px;
+
+}
